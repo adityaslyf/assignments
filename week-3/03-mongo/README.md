@@ -17,7 +17,7 @@ This is the reason why this assignment doesn't have a sign in route.
 You need to use mongodb to store all the data persistently.
 
 ## Routes
-### Admin Routes:
+### Admin Routes: 
 - POST /admin/signup
   Description: Creates a new admin account.
   Input Body: { username: 'admin', password: 'pass' }
